@@ -7,6 +7,7 @@ public class Cal {
 	/*
 	 *git first change
 	 * 对正确表达式合并同类项
+	 *B1 change
 	 */
 	String expression(String str) {
 		String[] arr;
